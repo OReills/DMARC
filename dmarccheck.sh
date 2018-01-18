@@ -2,7 +2,7 @@
 
 # Working path, default is in current directory (pwd)
 #wpath="`pwd`"
-wpath="`echo $HOME/spfcheck`"
+wpath="`echo $HOME/`"
 
 # Location of dig utility and @<dns server ip to be use>
 _dig="/usr/bin/dig @8.8.8.8"
